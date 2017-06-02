@@ -2,7 +2,7 @@
 
 <h2>hello!</h2>
 
-over twenty years ago, i was given my grandpa's old 286x computer when he upgraded to a 486x (still held onto his 386x, which i eventually got when he upgraded again) and thus began my lifelong passion for computers! taught myself how to take it apart and put it back together, BIOS, how to navigate DOS, write batch files and even naively tried to program games in qbasic. hey, i was only eight.. so gimme a break!
+over twenty years ago, i was given my grandpa's old 286 computer when he upgraded to a 486 (still held onto his 386, which i eventually got when he upgraded again) and thus began my lifelong passion for computers! taught myself how to take it apart and put it back together, BIOS, how to navigate DOS, write batch files and even naively tried to program games in qbasic. hey, i was only eight.. so gimme a break!
 
 was the kid who taught my teachers how to use the new computer introduced to the classroom and was dreadfully bored in the newly offered programming classes that my highschool began to offer.
 
